@@ -1,2 +1,7 @@
-# js-class-restful
-NodeJS - Web Server
+## NodeJS - Web Server  
+
+### Start server  
+cmd -> node index  
+
+
+
